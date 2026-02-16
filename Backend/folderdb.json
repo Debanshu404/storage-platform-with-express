@@ -1,0 +1,196 @@
+[
+  {
+    "id": "d544fb80-095a-44d6-8128-7ea89bcb607d",
+    "name": "root",
+    "parentdir": null,
+    "filee": [
+      "4d876f12-7a1d-415e-a8ff-bceb07938f86",
+      "3c7e5677-59bf-4428-84d2-25adc58d053e",
+      "7b4afc49-38d5-42ae-8e35-4f63b23b1367",
+      "41aaba78-2abd-4db1-9df1-3affd9077f0a",
+      "0a8b760a-e96f-40bf-9e3b-473888dd4757",
+      "94412bdf-9fd9-401b-94f6-a026fdcb54ba"
+    ],
+    "directories": [
+      "14d2cd65-e744-4870-a20f-04f6c1430e02",
+      "e1faad78-bc11-4d4a-989a-e936d048dac8"
+    ],
+    "isRoot": true,
+    "createdAt": "2025-01-14T10:00:00Z",
+    "updatedAt": "2025-01-14T10:00:00Z",
+    "permissions": "rwxr-xr-x",
+    "owner": "system",
+    "size": 0,
+    "metadata": {
+      "tags": [],
+      "description": "Root directory"
+    }
+  },
+  {
+    "id": "de3ecc95-00f1-4be1-9f3d-e85d1f97d1ee",
+    "name": "root-jemi05@gmail.com",
+    "parentdir": null,
+    "filee": [],
+    "directories": [],
+    "isRoot": true,
+    "createdAt": "2025-01-14T10:00:00Z",
+    "updatedAt": "2025-01-14T10:00:00Z",
+    "permissions": "rwxr-xr-x",
+    "owner": "system",
+    "size": 0,
+    "metadata": {
+      "tags": [],
+      "description": "Root directory"
+    }
+  },
+  {
+    "id": "cd563867-61e6-49a8-824e-238d52ac5516",
+    "name": "root-debanshupati12345@gmail.com",
+    "parentdir": null,
+    "filee": [],
+    "directories": [],
+    "isRoot": true,
+    "createdAt": "2025-01-14T10:00:00Z",
+    "updatedAt": "2025-01-14T10:00:00Z",
+    "permissions": "rwxr-xr-x",
+    "owner": "system",
+    "size": 0,
+    "metadata": {
+      "tags": [],
+      "description": "Root directory"
+    }
+  },
+  {
+    "id": "68156646-f074-4fb2-bb2b-c6956495dce0",
+    "name": "root-ajaykumarpati691@gmail.com",
+    "parentdir": null,
+    "filee": [],
+    "directories": [],
+    "isRoot": true,
+    "createdAt": "2025-01-14T10:00:00Z",
+    "updatedAt": "2025-01-14T10:00:00Z",
+    "permissions": "rwxr-xr-x",
+    "owner": "system",
+    "size": 0,
+    "metadata": {
+      "tags": [],
+      "description": "Root directory"
+    }
+  },
+  {
+    "id": "12470c66-9449-417e-aa44-26e3e25e0c8c",
+    "name": "root-debanshupati12345@gmail.com",
+    "parentdir": null,
+    "filee": [],
+    "directories": [],
+    "isRoot": true,
+    "createdAt": "2025-01-14T10:00:00Z",
+    "updatedAt": "2025-01-14T10:00:00Z",
+    "permissions": "rwxr-xr-x",
+    "owner": "system",
+    "size": 0,
+    "metadata": {
+      "tags": [],
+      "description": "Root directory"
+    }
+  },
+  {
+    "id": "c3c80c52-97ef-4c6d-8e71-9175f2609194",
+    "name": "root-debanshupati12345@gmail.com",
+    "parentdir": null,
+    "filee": [],
+    "directories": [],
+    "isRoot": true,
+    "createdAt": "2025-01-14T10:00:00Z",
+    "updatedAt": "2025-01-14T10:00:00Z",
+    "permissions": "rwxr-xr-x",
+    "owner": "system",
+    "size": 0,
+    "metadata": {
+      "tags": [],
+      "description": "Root directory"
+    }
+  },
+  {
+    "id": "b7b90aa3-d7b5-41ea-9ff9-8ec94a200797",
+    "name": "root-debanshupati12345@gmail.com",
+    "parentdir": null,
+    "filee": [],
+    "directories": [],
+    "isRoot": true,
+    "createdAt": "2025-01-14T10:00:00Z",
+    "updatedAt": "2025-01-14T10:00:00Z",
+    "permissions": "rwxr-xr-x",
+    "owner": "system",
+    "size": 0,
+    "metadata": {
+      "tags": [],
+      "description": "Root directory"
+    }
+  },
+  {
+    "id": "661ca2eb-20db-408d-bf29-ea51ce18e4ad",
+    "name": "root-hello@gmail.com",
+    "parentdir": null,
+    "filee": [],
+    "directories": [],
+    "isRoot": true,
+    "createdAt": "2025-01-14T10:00:00Z",
+    "updatedAt": "2025-01-14T10:00:00Z",
+    "permissions": "rwxr-xr-x",
+    "owner": "system",
+    "size": 0,
+    "metadata": {
+      "tags": [],
+      "description": "Root directory"
+    }
+  },
+  {
+    "id": "f9add838-b041-4fba-ac02-99ff90c55208",
+    "name": "root-jemi07@gmail.com",
+    "parentdir": null,
+    "filee": [],
+    "directories": [],
+    "isRoot": true,
+    "createdAt": "2025-01-14T10:00:00Z",
+    "updatedAt": "2025-01-14T10:00:00Z",
+    "permissions": "rwxr-xr-x",
+    "owner": "system",
+    "size": 0,
+    "metadata": {
+      "tags": [],
+      "description": "Root directory"
+    }
+  },
+  {
+    "did": "14d2cd65-e744-4870-a20f-04f6c1430e02",
+    "name": "hello",
+    "parentdir": "root",
+    "filee": [],
+    "directories": []
+  },
+  {
+    "did": "e1faad78-bc11-4d4a-989a-e936d048dac8",
+    "name": "untitled",
+    "parentdir": "root",
+    "filee": [],
+    "directories": []
+  },
+  {
+    "id": "ee85b5aa-1c59-425c-acc6-32936d123da0",
+    "name": "root-abit@gmail.com",
+    "parentdir": null,
+    "filee": [],
+    "directories": [],
+    "isRoot": true,
+    "createdAt": "2025-01-14T10:00:00Z",
+    "updatedAt": "2025-01-14T10:00:00Z",
+    "permissions": "rwxr-xr-x",
+    "owner": "system",
+    "size": 0,
+    "metadata": {
+      "tags": [],
+      "description": "Root directory"
+    }
+  }
+]
